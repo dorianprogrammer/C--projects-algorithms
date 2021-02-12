@@ -1,1 +1,2 @@
-# C-
+# C++ projects, algorithms, database connections and more...
+Here I have some projects that I have been doing during my time at the University, there are some final projects from my University and some other that I am going developing.
